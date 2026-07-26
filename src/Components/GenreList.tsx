@@ -4,7 +4,6 @@ import {
   ListItem,
   HStack,
   Image,
-  Text,
   Spinner,
   Button,
   Heading,
